@@ -1,4 +1,4 @@
-# STM_Wire-less-GameController
+# STM_Wire(less)GameController
 
 #Table of Contents:
 1.	Overview
