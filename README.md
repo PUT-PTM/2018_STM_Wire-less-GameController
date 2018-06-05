@@ -30,7 +30,9 @@ PC game was written in C# using Unity game engine.
 
 <h1>#4.	How to run</h1>
 
-Upload program to STM32F4, connect pins to Bluetooth module (TXD - PC11, RXD - PC10, Ground - Ground, Power - 5V). 
+Upload program to STM32F4, connect pins to Bluetooth module (TXD - PC11, RXD - PC10, Ground - Ground, Power - 5V).
+
+Pair Bluetooth module with PC (PIN: 1234).
 
 Run game (SpaceInvaders2/Game/Game.exe).
 
