@@ -22,6 +22,7 @@ Parts used:
 <h1>#2.	Description</h1>
 
 The external power supply is PC USB port. Gamepad uses accelerometer to move the character and USER button to shoot. It sends data via Bluetooth  in form of chars ranged from -10 to 10 (for movement) or 5 (for shooting), which is read by PC application. 
+
 Screenshoot from the game: https://i.imgur.com/ujIT2sh.png.
 
 <h1>#3.	Tools</h1>
